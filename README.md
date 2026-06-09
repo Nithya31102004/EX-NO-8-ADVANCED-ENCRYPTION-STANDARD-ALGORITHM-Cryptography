@@ -1,5 +1,6 @@
 # EX-NO-8-ADVANCED-ENCRYPTION-STANDARD-ALGORITHM
-
+##NAME :NITHYA T
+##REG NO:2305001023
 
 ## Aim:
 To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
@@ -46,6 +47,8 @@ int main() {
 }
 ```
 ## OUTPUT:
+<img width="567" height="299" alt="image" src="https://github.com/user-attachments/assets/3c337d2b-ea2c-4717-9ee9-b93fa5d96d0e" />
+
 
 ## RESULT:
 
